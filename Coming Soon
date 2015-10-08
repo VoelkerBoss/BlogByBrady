@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BlogByBrady.com</title>
+    <style>
+      body {
+        background-color: black;
+        font-family: Arial;
+      }
+
+      h1 {
+        color: #333;
+        font-size: 100px;
+        text-align: center;
+        margin: 100px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Coming Soon<br/>to a<br/>Browser Near You</h1>
+  </body>
+</html>
